@@ -9,7 +9,7 @@ const Newsletter = () => {
             <span className="text-white">Sign up to our newsletter and stay upto date.</span>
         </div>
         <div className="m-2">
-            <input type="text" className="p-3 mr-2 text-slate-600 rounded mb-2" placeholder="Email"></input>
+            <input type="text" className="sm:w-full p-3 mr-2 text-slate-600 rounded mb-2" placeholder="Email"></input>
             <button className='bg-black text-white rounded p-3'>Notify Me</button>
             <br/>
             <p className="text-white">
